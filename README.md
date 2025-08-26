@@ -1,1 +1,0 @@
-# TSL-Vendor-Issue-Tracking-and-Resolution-System
